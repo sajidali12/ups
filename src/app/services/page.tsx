@@ -99,7 +99,7 @@ export default function Services() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="bg-white p-6 rounded-lg shadow-md text-center">
-              <div className="text-teal-600 text-3xl mb-3">📋</div>
+              <div className="text-[#017efc] text-3xl mb-3">📋</div>
               <h3 className="text-lg font-semibold mb-2">Document Verification</h3>
               <p className="text-gray-600 text-sm">
                 Complete assistance with academic document verification and authentication.
@@ -107,7 +107,7 @@ export default function Services() {
             </div>
 
             <div className="bg-white p-6 rounded-lg shadow-md text-center">
-              <div className="text-teal-600 text-3xl mb-3">🧳</div>
+              <div className="text-[#017efc] text-3xl mb-3">🧳</div>
               <h3 className="text-lg font-semibold mb-2">Travel Insurance</h3>
               <p className="text-gray-600 text-sm">
                 Comprehensive travel insurance plans for students and travelers.
@@ -115,7 +115,7 @@ export default function Services() {
             </div>
 
             <div className="bg-white p-6 rounded-lg shadow-md text-center">
-              <div className="text-teal-600 text-3xl mb-3">📞</div>
+              <div className="text-[#017efc] text-3xl mb-3">📞</div>
               <h3 className="text-lg font-semibold mb-2">24/7 Support</h3>
               <p className="text-gray-600 text-sm">
                 Round-the-clock assistance during your educational journey for peace of mind.
@@ -123,7 +123,7 @@ export default function Services() {
             </div>
 
             <div className="bg-white p-6 rounded-lg shadow-md text-center">
-              <div className="text-teal-600 text-3xl mb-3">💼</div>
+              <div className="text-[#017efc] text-3xl mb-3">💼</div>
               <h3 className="text-lg font-semibold mb-2">Career Guidance</h3>
               <p className="text-gray-600 text-sm">
                 Expert advice on career paths, course selection, and future opportunities.
@@ -147,7 +147,7 @@ export default function Services() {
 
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="text-center">
-              <div className="bg-teal-600 text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
+              <div className="bg-[#017efc] text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
                 1
               </div>
               <h3 className="text-xl font-semibold mb-3">Consultation</h3>
@@ -157,7 +157,7 @@ export default function Services() {
             </div>
 
             <div className="text-center">
-              <div className="bg-teal-600 text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
+              <div className="bg-[#017efc] text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
                 2
               </div>
               <h3 className="text-xl font-semibold mb-3">Planning</h3>
@@ -167,7 +167,7 @@ export default function Services() {
             </div>
 
             <div className="text-center">
-              <div className="bg-teal-600 text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
+              <div className="bg-[#017efc] text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
                 3
               </div>
               <h3 className="text-xl font-semibold mb-3">Application</h3>
@@ -177,7 +177,7 @@ export default function Services() {
             </div>
 
             <div className="text-center">
-              <div className="bg-teal-600 text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
+              <div className="bg-[#017efc] text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
                 4
               </div>
               <h3 className="text-xl font-semibold mb-3">Support</h3>
@@ -190,12 +190,12 @@ export default function Services() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-16 bg-teal-600">
+      <section className="py-16 bg-[#017efc]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
             Ready to Start Your Educational Journey?
           </h2>
-          <p className="text-xl text-teal-100 mb-8 max-w-2xl mx-auto">
+          <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             Let our experts guide you toward your dream education and career.
           </p>
           <a

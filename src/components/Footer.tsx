@@ -36,7 +36,7 @@ const Footer = () => {
             <div className="text-gray-300 space-y-2">
               <p>📧 info@universalphoenix.net</p>
               <p>📞 +351 920 254 759</p>
-              <p>📍 RUA COUTO PAREDES # 19, MEADELA 4900-674, VIANA DO CASTELO, Portugal</p>
+              <p>📍 RUA COUTO PAREDES # 19, MEADELA 4900-674, Porto, Portugal</p>
             </div>
 
             <div className="mt-6">
